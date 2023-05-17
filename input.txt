@@ -1,0 +1,29 @@
+// assignacions
+x := 1.5
+y := 0.5e-2
+i := 5
+z := i * (x + i) - i / 4.0
+s := "Hola"
+b := z > 3 or not (i > 0 and i <= 10) or false
+// expressions bàsiques
+x
+y
+i
+z
+s
+b
+/*
+* expressions
+*/
+i + i * 2
+-i + x
+s + (s + i) + "--" + x + b
+s + 3
+b or not b
+t := sin(3)
+?
+p := 3 / 0
+h * 3
+3
+3.3 % 3.4
+t
